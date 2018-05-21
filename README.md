@@ -15,18 +15,34 @@ This is what the prototype looks like:
 
 The gestures I wanted to train my model on:
 # 1
+![image](https://user-images.githubusercontent.com/25040414/40320009-c4cfa43c-5d5c-11e8-8f04-201898020a90.png)
+
 # 2
+![image](https://user-images.githubusercontent.com/25040414/40320012-c893e6aa-5d5c-11e8-99ea-32815422f3ec.png)
+(No hard feelings)
+
 # 3
+![image](https://user-images.githubusercontent.com/25040414/40320019-ccba5066-5d5c-11e8-8782-40a7b0a2dc38.png)
+
 # 4
+![image](https://user-images.githubusercontent.com/25040414/40320033-d19b4356-5d5c-11e8-9f6a-224a96e93267.png)
+
 # 5
+![image](https://user-images.githubusercontent.com/25040414/40320041-d667beaa-5d5c-11e8-8468-7df005b8fc02.png)
+
 # 6
+![image](https://user-images.githubusercontent.com/25040414/40320047-dbe1ea18-5d5c-11e8-9acf-2f4a90315842.png)
+
 # 7
+![image](https://user-images.githubusercontent.com/25040414/40320053-e0e252b4-5d5c-11e8-996b-87f0bb63d9b1.png)
+
 # 8
+![image](https://user-images.githubusercontent.com/25040414/40320057-e5b01e16-5d5c-11e8-95da-2508843a387b.png)
 
 
 # Method
 
-simple K-nn seemed very sufficient for clean and clear data, and it indeed is. 100% ratios with k = 1 are achievable even with 
+simple K-nn seemed sufficient for clean and clear data, and it indeed is. 100% ratios with k = 1 are achievable even with 
 big cuts in the full dataset 
 
 Preliminary experiments: Describe the experiments that you've run, the outcomes, and any err
