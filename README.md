@@ -45,6 +45,6 @@ The gestures I wanted to train my model on:
 simple K-nn seemed sufficient for clean and clear data, and it indeed is. 100% ratios with k = 1 are achievable even with 
 big cuts in the training / model part of dataset (useful for speeding up classification, crucial in it's usecase). 
 
-Supplied in this repository is the full labeled dataset, a script training the knn model and testing it, and a script for routing the UDP sensor data  to the classifier, and routing the output of the classifier as a MIDI message.
+Supplied in this repository is the full labeled dataset, a script training the knn model and testing it, a script for routing the UDP sensor data  to the classifier and routing the output of the classifier as a MIDI message, and the script running on the "glove".
 
 
